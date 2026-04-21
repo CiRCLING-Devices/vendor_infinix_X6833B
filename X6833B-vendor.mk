@@ -394,7 +394,6 @@ PRODUCT_PACKAGES += \
     libladder \
     libthha \
     libtneclient \
-    libtranlog \
     libvcodec_oal \
     libvcodecdrv_header_stub \
     libverno \
@@ -893,7 +892,6 @@ PRODUCT_PACKAGES += \
     libkmsetkey \
     libksensor \
     liblibarm_mali_config_sysprops \
-    libminizip \
     libmipc \
     libmmagent \
     libmml \
