@@ -425,6 +425,11 @@ PRODUCT_PACKAGES += \
     APUWareApusysServer \
     APUWareHmpServer \
     APUWareUtilsServer \
+    libGLES_meow \
+    libMEOW_data \
+    libMEOW_gift \
+    libMEOW_qt \
+    libMEOW_trace \
     libGLES_mali \
     android.hardware.gnss-impl-mediatek \
     android.hardware.gnss@2.1-impl-mediatek \
@@ -776,9 +781,12 @@ PRODUCT_PACKAGES += \
     libCamera_pbroov64b40mipiraw_Video_EIS \
     libCamera_pbroov64b40mipiraw_Video_Zoom1 \
     libCamera_pbroov64b40mipiraw_Video_Zoom2 \
+    libDefaultFpsActor \
+    libFrameRecord \
     libJpgEncPipe \
     libMcClient \
     libMtkSpeechEnh \
+    libNoFpsActor \
     libOpenCL \
     libSQLiteModule_VER_ALL \
     libTranExtImgThread \
